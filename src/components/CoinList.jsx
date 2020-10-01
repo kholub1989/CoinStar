@@ -12,7 +12,7 @@ const CoinList = () => {
       const response = await coinGecko.get("/coins/markets", {
         params: {
           vs_currency: "usd",
-          ids: "bitcoin",
+          ids: watchList.join(","),
         },
       });
       console.log(response.data);
