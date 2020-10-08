@@ -35,6 +35,7 @@ const AddCoin = () => {
         {availableCoins.map((el) => {
           return (
             <a
+              key={el}
               onClick={() => handleClick(el)}
               href="#"
               className="dropdown-item"
