@@ -1,3 +1,8 @@
+# CoinStar
+
+![CoinStar](https://i.ibb.co/9GLwp07/Screen-Shot-2020-10-06-at-7-03-29-PM.png)
+![CoinStar](https://i.ibb.co/hZDNzCQ/Screen-Shot-2020-10-06-at-7-03-38-PM.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
